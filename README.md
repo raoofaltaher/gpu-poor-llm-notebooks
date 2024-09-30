@@ -1,8 +1,6 @@
 # GPU-Efficient LLM Notebooks ⚡
 
-Unlock the full potential of a T4 GPU!
-
-This repository hosts a collection of Jupyter notebooks optimized for running large language models (LLMs) with fewer than 15 billion parameters using the [Transformers](https://huggingface.co/transformers/) library and [Accelerate](https://huggingface.co/docs/accelerate) in either `bfloat16` or `float16` precision, tailored specifically for the NVIDIA T4 GPU. Despite its modest specs, the T4 is surprisingly capable of handling these models efficiently.
+This repository hosts a collection of Jupyter notebooks optimized for running large language models (LLMs) with fewer than 15 billion parameters using the [Transformers](https://huggingface.co/transformers/) library and [Accelerate](https://huggingface.co/docs/accelerate) in either `bfloat16` or `float16` precision, tailored specifically for the poor GPUs, here we use the NVIDIA T4 GPU. Despite its modest specs, the T4 is surprisingly capable of handling these models efficiently.
 
 ## Why Use These Notebooks?
 
