@@ -32,4 +32,4 @@ Each notebook includes step-by-step instructions for loading, running, and exper
 To get started, simply clone the repository and open the notebook of your choice:
 
 ```bash
-git clone https://github.com/raoofaltaher/gpu-poor-llm-notebooks
+git clone https://github.com/raoofaltaher/llm-notebooks
